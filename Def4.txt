@@ -1,4 +1,4 @@
 Defecto1
-Defecto2
+OK      2
 Defecto3
 Defecto4
